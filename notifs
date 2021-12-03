@@ -1,1 +1,14 @@
-
+[
+  {
+    "logo": "test",
+    "title": "NEWS",
+    "subTitle": "diabolo v1",
+    "description": "Diabolo v1 launch"
+  },
+  {
+    "logo": "test",
+    "title": "NEWS",
+    "subTitle": "dcash listing",
+    "description": "Dcash now on By."
+  },
+]
