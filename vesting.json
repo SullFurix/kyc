@@ -1,10 +1,8 @@
 {
   "0x9BE948033E0430A0747BB38316f8d9173Ba93676": {
-    "amount": "100",
-    "sale": { "private": 100, "whitelist": 100 }
+    "amount": "100"
   },
   "0xFF9738e578E13e6927e00691F60a062de49e89f4": {
-    "amount": "100",
-    "sale": { "private": 100, "whitelist": 100 }
+    "amount": "100"
   }
 }
